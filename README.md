@@ -1,4 +1,4 @@
-# Odin Recipes - My 1st Odin Project HTML Project
+# Odin Recipes - My 1st HTML Project
 ## About
 A simple website to practice the HTML fundamental skills gained from the Odin Project.
 
